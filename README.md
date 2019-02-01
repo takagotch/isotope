@@ -23,5 +23,6 @@ var iso = new Isotope('.grid', {
 ```
 
 ```
+<div class="grid" data-isotope='{ "itemSelector": ".grid-item", "layoutMode": "fitRows"}' >
 ```
 
