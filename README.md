@@ -20,6 +20,8 @@ var iso = new Isotope(elem, {
 });
 var iso = new Isotope('.grid', {
 });
+
+$grid.isotope({ filter: '.metal' })
 ```
 
 ```
